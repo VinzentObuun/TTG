@@ -87,7 +87,7 @@
    
 ##### Kellonius' Pretty List Offerings
    Info: [Pretty List Offerings](https://forums.achaea.com/discussion/5246)  
-   Download: [Dropbox](https://www.dropbox.com/sh/d10gfqj7dln6o63/AAD0If7zGK2FKNJ6cz2Xflsna?dl=0)  
+   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/listofferingsV2.xml)  
     
 ##### Klendathu's Animated Harmonics Tracker
    Info: [Animated harmonics tracker](https://forums.achaea.com/discussion/2941)  
