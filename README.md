@@ -91,7 +91,7 @@
     
 ##### Klendathu's Animated Harmonics Tracker
    Info: [Animated harmonics tracker](https://forums.achaea.com/discussion/2941)  
-   Download: [Dropbox](https://www.dropbox.com/s/8i591omezeby2n7/bard_animated_harmonic_tracker.xml?dl=0)  
+   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/bard_animated_harmonic_tracker.xml)  
     
 ##### Valden's Room Inventory Console
    Info: [Room Inventory Console](https://forums.achaea.com/discussion/839)  
