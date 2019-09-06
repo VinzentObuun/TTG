@@ -94,7 +94,7 @@
     
 ##### Valden's Room Inventory Console
    Info: [Room Inventory Console](https://forums.achaea.com/discussion/839)  
-   Download: [Direct](https://drive.google.com/uc?export=download&confirm=&id=0B2lK7_aO50boeGtyazhKY1pUUTA)  
+   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/ValdensRoomInventory.xml)  
 
 ## Nexus
 
