@@ -30,7 +30,7 @@
 
 #####  Keneanung's Bashing Script
    Info: [Another denizen targeting script](https://forums.achaea.com/discussion/1533)  
-   Download: http://achaeabashingscript.github.io/Bashing/  
+   Download: [Github](http://achaeabashingscript.github.io/Bashing/)  
 
 #####  Guhem's Denizen Targeting Script
    Info: [Denizen Targeting Script](https://forums.achaea.com/discussion/1501)  
@@ -38,7 +38,8 @@
 
 ##### Kenway's All Class Limb Counter + Fracture Tracking
    Info: [All Class Limbcoutner + Fracture counter](https://forums.achaea.com/discussion/3114)  
-   Download (Limb Counter): [Dropbox](https://www.dropbox.com/s/4mm3lsw5edbfhrf/KSLC%203-29-17.zip?dl=0) (There are different versions for working with different systems, e.g. Svof/WunderSys) 
+   Download (Limb Counter): [Dropbox](https://www.dropbox.com/s/4mm3lsw5edbfhrf/KSLC%203-29-17.zip?dl=0)
+   ~ There are different versions for working with different systems, e.g. Svof/WunderSys.
       
    Download (Fractures): [Dropbox](https://www.dropbox.com/s/x2qkze4k4i9dl7q/Aff%20Relapsing.zip?dl=0)  
 
