@@ -102,7 +102,7 @@
    Info: [Curing system for Achaea Nexus Client (super beta version)](https://forums.achaea.com/discussion/5020)  
    Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/Nexsys.zip)  
 
-    With the download links below, you must RIGHT CLICK and SAVE LINK AS.
+    With the download links below, you must RIGHT CLICK, SAVE LINK AS, and add the .nxs extension.
 
 ##### Voka's Character NDB
    Info: [Character DB](https://forums.achaea.com/discussion/6527)  
