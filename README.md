@@ -1,4 +1,5 @@
-### Mudlet
+### Public
+#### Mudlet
 ##### SVOF
    Info: [https://forums.achaea.com/discussion/3976/svof#latest](https://forums.achaea.com/discussion/3976)
     
@@ -11,9 +12,9 @@
  ^ This is currently a direct link due to the nature of how the project is being worked on.
 
 ##### WunderSys
-    Info: https://forums.achaea.com/discussion/4930/
+    Info: [https://forums.achaea.com/discussion/4930/]
 
-Download: https://github.com/tynil/WunderSys/releases
+Download: [https://github.com/tynil/WunderSys/releases]
 
 ##### Nehmrah's TReX
 Info: https://forums.achaea.com/discussion/5648
