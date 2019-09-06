@@ -71,7 +71,7 @@
    
 ##### Alyxeri's City Bounty List
    Info: [City Bounty List](https://forums.achaea.com/discussion/5960)  
-   Download: [Direct](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/City_Bounty_List_v2.xml)  
+   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/City_Bounty_List_v2.xml)  
    
 ##### Sohl's Slain Tracker
    Info: [Slain tracker](https://forums.achaea.com/discussion/5913)  
