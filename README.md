@@ -69,13 +69,13 @@
    Download (Guards): [Dropbox](https://www.dropbox.com/s/h7877oj0vbgbjd6/Guards.xml?dl=0)  
    Download (Pervasion) [Dropbox](https://www.dropbox.com/s/fsowjo84b0bwztf/Pervasion.xml?dl=0)  
    
-##### Pyori's City Bounty List
+##### Alyxeri's City Bounty List
    Info: [City Bounty List](https://forums.achaea.com/discussion/5960)  
-   Download: [Direct](https://us.v-cdn.net/5019940/uploads/editor/iq/ecimlvowlob8.zip)  
+   Download: [Direct](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/City_Bounty_List_v2.xml)  
    
 ##### Sohl's Slain Tracker
    Info: [Slain tracker](https://forums.achaea.com/discussion/5913)  
-   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/slain_vs2)  
+   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/slain_vs2.xml)  
    
 ##### Jonathin's Furnishing Sample Display
    Info: [Furnishing sample display](https://forums.achaea.com/discussion/5661)  
