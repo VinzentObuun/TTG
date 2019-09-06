@@ -1,4 +1,4 @@
-    These are pubicly available systems/scripts.
+    These are pubicly available systems/scripts. For the sake of posterity, some are locally stored in this repository.
 
 ### Mudlet
   
@@ -112,7 +112,7 @@
 
 ##### Bip's Core Reflex Package
    Info: [Bip-core reflex package](https://forums.achaea.com/discussion/5004)  
-   Download: [Github](https://github.com/Bip-Achaea/bip-core)  
+   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/Reflex Package Bip-core 2016-8-28)  
 
 ##### Extra
    Info: [Contest Submissions](https://forums.achaea.com/discussion/6062)
