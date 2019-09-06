@@ -8,6 +8,7 @@
 
 ##### Nemutaur's WunderSys
    Info: [Long Live Wundersys](https://forums.achaea.com/discussion/4930)  
+   Info (Original): [WunderSys: an Achaean ServerSide Curing System](https://forums.achaea.com/discussion/2249)  
    Download: [Github](https://github.com/tynil/WunderSys/releases)  
 
 ##### Nehmrah's TReX
@@ -81,7 +82,19 @@
 ##### Jonathin's Furnishing Sample Display
    Info: [Furnishing sample display](https://forums.achaea.com/discussion/5661)  
    Download: [Dropbox](https://www.dropbox.com/s/fmckan2amh7sz2f/furnishing%20sample%20display%202.0.xml?dl=0)  
+   
+##### Kellonius' Pretty List Offerings
+   Info: [Pretty List Offerings](https://forums.achaea.com/discussion/5246)  
+   Download: [Dropbox](https://www.dropbox.com/sh/d10gfqj7dln6o63/AAD0If7zGK2FKNJ6cz2Xflsna?dl=0)  
     
+##### Klendathu's Animated Harmonics Tracker
+   Info: [Animated harmonics tracker](https://forums.achaea.com/discussion/2941)  
+   Download: [Dropbox](https://www.dropbox.com/s/8i591omezeby2n7/bard_animated_harmonic_tracker.xml?dl=0)  
+    
+##### Valden's Room Inventory Console
+   Info: [Room Inventory Console](https://forums.achaea.com/discussion/839)  
+   Download: [Direct](https://drive.google.com/uc?export=download&confirm=&id=0B2lK7_aO50boeGtyazhKY1pUUTA)  
+
 ## Nexus
 
 ##### Jhui's Nexsys
