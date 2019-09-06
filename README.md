@@ -1,4 +1,4 @@
-# 
+##### These are pubicly available systems/scripts.
 
 ### Mudlet  
 
@@ -36,10 +36,9 @@
 
 ##### Kenway's All Class Limb Counter + Fracture Tracking
    Info: [All Class Limbcoutner + Fracture counter](https://forums.achaea.com/discussion/3114)  
-   Download: [Dropbox](https://www.dropbox.com/s/4mm3lsw5edbfhrf/KSLC%203-29-17.zip?dl=0)
-      ^ There are different versions for working with different systems (Svof/WunderSys).  
+   Download (Limb Counter): [Dropbox](https://www.dropbox.com/s/4mm3lsw5edbfhrf/KSLC%203-29-17.zip?dl=0) (There are different versions for working with different systems, e.g. Svof/WunderSys) 
       
-   Download (2): [Dropbox](https://www.dropbox.com/s/x2qkze4k4i9dl7q/Aff%20Relapsing.zip?dl=0)  
+   Download (Fractures): [Dropbox](https://www.dropbox.com/s/x2qkze4k4i9dl7q/Aff%20Relapsing.zip?dl=0)  
 
 ##### Klendathu's Talisman Tracker
    Info: [Talisman Tracker](https://forums.achaea.com/discussion/2855)  
@@ -61,8 +60,8 @@
 
 ##### Ameer's Fullsense/Mindnet
    Info: [Fullsense and Mindnet script](https://forums.achaea.com/discussion/6205)  
-   Download: [Dropbox](https://www.dropbox.com/s/vm445c3h7jdl7tp/Reflex%20Package%20Fullsense%202018-1-30.nxs?dl=0)  
-   Download (2): [Dropbox](https://www.dropbox.com/s/hptxhyc4b4tonv8/Reflex%20Package%20Mindnet%202018-1-30.nxs?dl=0)  
+   Download (Fullsense): [Dropbox](https://www.dropbox.com/s/vm445c3h7jdl7tp/Reflex%20Package%20Fullsense%202018-1-30.nxs?dl=0)  
+   Download (Mindnet): [Dropbox](https://www.dropbox.com/s/hptxhyc4b4tonv8/Reflex%20Package%20Mindnet%202018-1-30.nxs?dl=0)  
 
 ##### Extra
    Info: [Contest Submissions](https://forums.achaea.com/discussion/6062)
