@@ -75,7 +75,7 @@
    
 ##### Sohl's Slain Tracker
    Info: [Slain tracker](https://forums.achaea.com/discussion/5913)  
-   Download: [MediaFire](http://www.mediafire.com/file/aefbx658j5nb6zi/slain_vs2.xml/file)  
+   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/slain_vs2)  
    
 ##### Jonathin's Furnishing Sample Display
    Info: [Furnishing sample display](https://forums.achaea.com/discussion/5661)  
