@@ -24,7 +24,7 @@
 
 #####  Pyori's Achaea NDB
    Info: [NDB to replace the erroring crapfest of Apt](https://forums.achaea.com/discussion/6856)  
-   Download: [Direct Download](https://us.v-cdn.net/5019940/uploads/editor/c7/rkqx0er5pvjp.zip)  
+   Download: [Direct](https://us.v-cdn.net/5019940/uploads/editor/c7/rkqx0er5pvjp.zip)  
 
 #####  Keneanung's Bashing Script
    Info: [Another denizen targeting script](https://forums.achaea.com/discussion/1533)  
