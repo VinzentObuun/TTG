@@ -6,7 +6,7 @@
    Info: [Svof](https://forums.achaea.com/discussion/3976)  
    Download: [Github](https://github.com/svof/svof/archive/in-client-svof.zip)  
 
-##### WunderSys
+##### Nemutaur's WunderSys
    Info: [Long Live Wundersys](https://forums.achaea.com/discussion/4930)  
    Download: [Github](https://github.com/tynil/WunderSys/releases)  
 
