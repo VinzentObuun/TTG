@@ -83,7 +83,7 @@
    
 ##### Jonathin's Furnishing Sample Display
    Info: [Furnishing sample display](https://forums.achaea.com/discussion/5661)  
-   Download: [Dropbox](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/furnishing_sample_display_2.0.xml)  
+   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/furnishing_sample_display_2.0.xml)  
    
 ##### Kellonius' Pretty List Offerings
    Info: [Pretty List Offerings](https://forums.achaea.com/discussion/5246)  
