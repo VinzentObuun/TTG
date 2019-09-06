@@ -77,10 +77,6 @@
    Info: [Slain tracker](https://forums.achaea.com/discussion/5913)  
    Download: [MediaFire](http://www.mediafire.com/file/aefbx658j5nb6zi/slain_vs2.xml/file)  
    
-##### Sayenna's Synthesiser
-   Info: [Synthesiser](https://forums.achaea.com/discussion/5741)  
-   Download: [Direct](https://us.v-cdn.net/5019940/uploads/editor/hr/43raqtnu3x5c.zip)  
-   
 ##### Jonathin's Furnishing Sample Display
    Info: [Furnishing sample display](https://forums.achaea.com/discussion/5661)  
    Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/furnishing_sample_display_2.0.xml)  
