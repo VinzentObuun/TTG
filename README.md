@@ -108,8 +108,8 @@
 
 ##### Ameer's Fullsense/Mindnet
    Info: [Fullsense and Mindnet script](https://forums.achaea.com/discussion/6205)  
-   Download (Fullsense): [Dropbox](https://www.dropbox.com/s/vm445c3h7jdl7tp/Reflex%20Package%20Fullsense%202018-1-30.nxs?dl=0)  
-   Download (Mindnet): [Dropbox](https://www.dropbox.com/s/hptxhyc4b4tonv8/Reflex%20Package%20Mindnet%202018-1-30.nxs?dl=0)  
+   Download (Fullsense): [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/Reflex_Package_Fullsense_2018-1-30.nxs)  
+   Download (Mindnet): [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/Reflex_Package_Mindnet_2018-1-30.nxs)  
 
 ##### Bip's Core Reflex Package
    Info: [Bip-core reflex package](https://forums.achaea.com/discussion/5004)  
