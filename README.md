@@ -104,7 +104,7 @@
 
 ##### Voka's Character NDB
    Info: [Character DB](https://forums.achaea.com/discussion/6527)  
-   Download: [Github](https://raw.githubusercontent.com/poormuffin/vsys/master/Character%20DB.nxs)  
+   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/Character_DB.nxs)  
 
 ##### Ameer's Fullsense/Mindnet
    Info: [Fullsense and Mindnet script](https://forums.achaea.com/discussion/6205)  
