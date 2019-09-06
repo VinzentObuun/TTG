@@ -1,14 +1,9 @@
-### Public
-#### Mudlet
+#
+
+### Mudlet
+
 ##### Svof
-   Info: [Svof](https://forums.achaea.com/discussion/3976)
-    
-   Download: [Github](https://github.com/svof/svof/archive/in-client-svof.zip)
- 
- 
- 
- 
- 
+   Info: [Svof](https://forums.achaea.com/discussion/3976)  Download: [Github](https://github.com/svof/svof/archive/in-client-svof.zip)
  ^ This is currently a direct link due to the nature of how the project is being worked on.
 
 ##### WunderSys
