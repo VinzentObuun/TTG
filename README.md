@@ -39,10 +39,9 @@
 
 ##### Kenway's All Class Limb Counter + Fracture Tracking
    Info: [All Class Limbcoutner + Fracture counter](https://forums.achaea.com/discussion/3114)  
-   Download (Limb Counter): [Dropbox](https://www.dropbox.com/s/4mm3lsw5edbfhrf/KSLC%203-29-17.zip?dl=0)  
-   ~ There are different versions for working with different systems, e.g. Svof/WunderSys.
-      
    Download (Fractures): [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/Fracture_Tracking.mpackage)  
+   Download (Limb Counter): [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/KSLC_3-29-17.mpackage)  
+     
 
 ##### Pyori's Augmentation Script
    Info: [God I Hate Enchanting](https://forums.achaea.com/discussion/6764)  
@@ -105,8 +104,8 @@
 
 ##### Ameer's Fullsense/Mindnet
    Info: [Fullsense and Mindnet script](https://forums.achaea.com/discussion/6205)  
+      Download (Mindnet): [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/Reflex_Package_Mindnet_2018-1-30.nxs)  
    Download (Fullsense): [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/Reflex_Package_Fullsense_2018-1-30.nxs)  
-   Download (Mindnet): [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/Reflex_Package_Mindnet_2018-1-30.nxs)  
 
 ##### Bip's Core Reflex Package
    Info: [Bip-core reflex package](https://forums.achaea.com/discussion/5004)  
