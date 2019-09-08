@@ -58,7 +58,7 @@
 
 ##### Tydas' Rainbow Script
    Info: [Better Rainbows!](https://forums.achaea.com/discussion/5323)  
-   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/Better_Rainbow_Script.txt)  
+   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/Better_Rainbow_Script.txt)  
 
 ##### Klendathu's All Class Battlerage Tracker
    Info: [All class BattleRager tracker](https://forums.achaea.com/discussion/3691)  
