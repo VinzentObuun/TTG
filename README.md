@@ -44,7 +44,7 @@
 
 ##### Pyori's Augmentation Script
    Info: [God I Hate Enchanting](https://forums.achaea.com/discussion/6764)  
-   Download: [Direct](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/AC.xml)
+   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/AC.xml)
 
 ##### Klendathu's Talisman Tracker
    Info: [Talisman Tracker](https://forums.achaea.com/discussion/2855)  
