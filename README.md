@@ -19,7 +19,7 @@
 
 ##### Austere's AK
    Info: [Ak Opponent Tracking](https://forums.achaea.com/discussion/3314)  
-   Download: [Dropbox](https://www.dropbox.com/sh/m6dnd61o8ncc5oe/AAAmY0FPLzuIDaYKDH0WVHsEa?dl=0)  
+   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/AK_Opponent_Tracking.xml)  
    
 #####  Antonius' Knight Limb Counter v2
    Info: [Knight Limb Counter v2](https://forums.achaea.com/discussion/4480)  
