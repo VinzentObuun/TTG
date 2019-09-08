@@ -66,8 +66,8 @@
 
 ##### Gilliam's Guard and Pervasion Highlights
    Info: [Script Dump](https://forums.achaea.com/discussion/6266)  
-   Download (Guards): [Dropbox](https://www.dropbox.com/s/h7877oj0vbgbjd6/Guards.xml?dl=0)  
-   Download (Pervasion) [Dropbox](https://www.dropbox.com/s/fsowjo84b0bwztf/Pervasion.xml?dl=0)  
+   Download (Guards): [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/Guards.xml)  
+   Download (Pervasion) [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/Pervasion.xml)  
    
 ##### Alyxeri's City Bounty List
    Info: [City Bounty List](https://forums.achaea.com/discussion/5960)  
