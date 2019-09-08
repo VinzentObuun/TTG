@@ -50,7 +50,7 @@
 
 ##### Klendathu's Talisman Tracker
    Info: [Talisman Tracker](https://forums.achaea.com/discussion/2855)  
-   Download: [Dropbox](https://www.dropbox.com/s/1v3t2ulv4bqdr85/talitracker.xml?dl=1)  
+   Download: [Dropbox](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/talitracker.xml)  
 
 ##### Jonathin's Charge Counter
    Info: [Charge list total thingy](https://forums.achaea.com/discussion/6151)  
