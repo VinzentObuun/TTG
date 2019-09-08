@@ -54,7 +54,7 @@
 
 ##### Jonathin's Charge Counter
    Info: [Charge list total thingy](https://forums.achaea.com/discussion/6151)  
-   Download: [Dropbox](https://www.dropbox.com/s/3jweb84ytodb3c9/chargeList.zip?dl=0)  
+   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/chargeList.xml)  
 
 ##### Tydas' Rainbow Script
    Info: [Better Rainbows!](https://forums.achaea.com/discussion/5323)  
