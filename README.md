@@ -23,25 +23,24 @@
    
 #####  Antonius' Knight Limb Counter v2
    Info: [Knight Limb Counter v2](https://forums.achaea.com/discussion/4480)  
-   Download: [Dropbox](https://www.dropbox.com/s/ozo2z11kopf8xqv/Antonius%20Targetting.mpackage.zip?dl=0)  
+   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/Antonius'_Targeting.mpackage)  
 
 #####  Pyori's Achaea NDB
    Info: [NDB to replace the erroring crapfest of Apt](https://forums.achaea.com/discussion/6856)  
-   Download: [Direct](https://us.v-cdn.net/5019940/uploads/editor/c7/rkqx0er5pvjp.zip)  
+   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/Achaea_NDB.xml)  
 
 #####  Keneanung's Bashing Script
    Info: [Another denizen targeting script](https://forums.achaea.com/discussion/1533)  
-   Download: [Github](http://achaeabashingscript.github.io/Bashing/)  
+   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/Bashing.mpackage)  
 
 #####  Guhem's Denizen Targeting Script
    Info: [Denizen Targeting Script](https://forums.achaea.com/discussion/1501)  
-   Download: [Dropbox](http://dl.dropboxusercontent.com/s/zga0ik6rg8cv7uw/Huntingv0.6.xml?dl=1)  
+   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/Huntingv0.6.xml)  
 
 ##### Kenway's All Class Limb Counter + Fracture Tracking
    Info: [All Class Limbcoutner + Fracture counter](https://forums.achaea.com/discussion/3114)  
    Download (Fractures): [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/Fracture_Tracking.mpackage)  
    Download (Limb Counter): [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/KSLC_3-29-17.mpackage)  
-     
 
 ##### Pyori's Augmentation Script
    Info: [God I Hate Enchanting](https://forums.achaea.com/discussion/6764)  
