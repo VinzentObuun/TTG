@@ -62,7 +62,7 @@
 
 ##### Klendathu's All Class Battlerage Tracker
    Info: [All class BattleRager tracker](https://forums.achaea.com/discussion/3691)  
-   Download: [Github](https://github.com/PapaGuacamole/rageGUI)  
+   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/BattleRage_GUI.xml)  
 
 ##### Gilliam's Guard and Pervasion Highlights
    Info: [Script Dump](https://forums.achaea.com/discussion/6266)  
