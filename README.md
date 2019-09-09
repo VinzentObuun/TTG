@@ -5,7 +5,8 @@
 ### Mudlet
   
 ##### Svof
-   Info: [Svof](https://forums.achaea.com/discussion/3976)  
+   Info: [Client-side Svo](https://forums.achaea.com/discussion/6879)  
+   Info (Original): [Svof](https://forums.achaea.com/discussion/3976)  
    Download: [Github](https://github.com/svof/svof/archive/in-client-svof.zip)  
 
 ##### Nemutaur's WunderSys
