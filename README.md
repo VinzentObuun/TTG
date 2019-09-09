@@ -15,7 +15,7 @@
 
 ##### Nehmrah's TReX
    Info: [TReX Release Final](https://forums.achaea.com/discussion/5648)  
-   Download: [Github](https://github.com/shanesrasmussen/TReX-/releases)  
+   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/TReX.zip)  
 
 ##### Austere's AK
    Info: [Ak Opponent Tracking](https://forums.achaea.com/discussion/3314)  
