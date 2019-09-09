@@ -7,7 +7,7 @@
 ##### Svof
    Info: [Client-side Svo](https://forums.achaea.com/discussion/6879)  
    Info (Original): [Svof](https://forums.achaea.com/discussion/3976)  
-   Download: [Github](https://github.com/svof/svof/archive/in-client-svof.zip)  
+   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/svof-in-client-svof)  
 
 ##### Nemutaur's WunderSys
    Info: [Long Live Wundersys](https://forums.achaea.com/discussion/4930)  
