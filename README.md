@@ -11,7 +11,7 @@
 ##### Nemutaur's WunderSys
    Info: [Long Live Wundersys](https://forums.achaea.com/discussion/4930)  
    Info (Original): [WunderSys: an Achaean ServerSide Curing System](https://forums.achaea.com/discussion/2249)  
-   Download: [Github](https://github.com/tynil/WunderSys/releases)  
+   Download: [Github](https://raw.githubusercontent.com/VinzentObuun/TTG/master/archive/WunderSys+Foundation.mpackage)  
 
 ##### Nehmrah's TReX
    Info: [TReX Release Final](https://forums.achaea.com/discussion/5648)  
